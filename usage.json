@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "package": "@x12i/guardix-sdk",
+  "packageVersion": "0.2.0",
+  "npmUrl": "https://www.npmjs.com/package/@x12i/guardix-sdk",
+  "usageRepository": "https://github.com/x12i-sdk/guardix-sdk",
+  "sourceRepository": "https://github.com/x12i/guardix",
+  "sourceCommit": "cf16c5618b1af60f283e91fe2da66515d222eb5e",
+  "sourcePackageDirectory": "packages/guardix-sdk",
+  "example": {
+    "title": "Generate a local agent key and verify a proof signature",
+    "entrypoint": "src/index.mjs",
+    "command": "npm start",
+    "requiresCredentials": false,
+    "validation": "passed",
+    "validatedAt": "2026-10-24T14:04:19.105902+00:00",
+    "isolatedInstallation": true,
+    "sourceSha256": "76a23cc0e7491b6d91e0ab95391d8f1782ddd59f944f7ab059cbadc4b242448e",
+    "manifestSha256": "1f78e3594b6b548c3fd8758edef51bad5d135ac2392b9b3d5838c813331a70d7"
+  },
+  "validationFiles": {
+    "src/index.mjs": "76a23cc0e7491b6d91e0ab95391d8f1782ddd59f944f7ab059cbadc4b242448e"
+  }
+}
